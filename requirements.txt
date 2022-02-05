@@ -1,0 +1,4 @@
+dnspython==2.2.0
+pdfminer==20191125
+pkg_resources==0.0.0
+pymongo==4.0.1
